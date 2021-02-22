@@ -8,3 +8,19 @@ run the code,
 enter your password twice!!
 Choose the option and hit enter.
 Note: Some of the options requires root previleges.
+
+
+                       #################################################
+                       ####  Please enter the choice and hit Enter  ####
+                       #################################################
+                       1.   hdfs 
+                       2.   impala-shell
+                       3.   hive-beeline
+                       4.   mapreduce job
+                       5.   spark submit
+                       6.   UDF Functions
+                       7.   Hive objects
+                       8.   send mail
+                       9.   Run all checks & send mail
+                       10.   Summary Result
+                       11.   Exit"
